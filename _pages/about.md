@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! This is Zheng Fang. I am currently a Ph.D. Candidate at The Hong Kong University of Science and Technology (Guangzhou).
+Hey, I'm Zheng Fang — a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), working with [Prof. Jun Xia](https://junxia97.github.io/).
 
-I hold an M.Eng. in Electrical and Computer Engineering from the National University of Singapore (NUS), and a B.Eng. in Electrical and Computer Engineering from Zhejiang University (ZJU) and the University of Illinois at Urbana-Champaign (UIUC) through the ZJU-UIUC Joint Institute.
+Before coming to HKUST(GZ), I got my M.Eng. from NUS (National University of Singapore), where I spent most of my time on Federated Learning, Medical Imaging, and Surgical Videos. Before that, I did my undergrad in ECE jointly at Zhejiang University and UIUC through the ZJU-UIUC Joint Institute.
 
-If you are interested in my research, please feel free to contact me!
+When I'm not doing research, you'll probably find me shredding on electric guitar 🎸 or at the gym 🏋️.
 
 Research Interests
 -------------
