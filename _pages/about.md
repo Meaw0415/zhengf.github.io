@@ -7,16 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Zheng Fang — a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jun Xia](https://junxia97.github.io/).
+Hi! I'm Zheng Fang — a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jun Xia](https://junxia97.github.io/). Before coming to HKUST(GZ), I got my M.Eng. from NUS (National University of Singapore), where I spent most of my time on Federated Learning, Medical Imaging, and Surgical Videos. I did my undergrad in ECE jointly at Zhejiang University and UIUC through the ZJU-UIUC Institute. Outside of work, I'm into electric guitar 🎸 and fitness 🏋️.
 
-Before coming to HKUST(GZ), I got my M.Eng. from NUS (National University of Singapore), where I spent most of my time on Federated Learning, Medical Imaging, and Surgical Videos. Before that, I did my undergrad in ECE jointly at Zhejiang University and UIUC through the ZJU-UIUC Joint Institute.
-
-When I'm not doing research, you'll probably find me shredding on electric guitar 🎸 or at the gym 🏋️.
 
 Research Interests
 -------------
 - AI for Spectroscopy
-- Agent and Multimodal Large Language Models (MLLM) Post-Training
+- MLLM Post-Training and Agent AI
 - AI for Healthcare (Medical Imaging & Surgical Videos)
 
 Experience
