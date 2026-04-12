@@ -42,11 +42,11 @@ td:nth-child(1) {
 
 <table>
   <tr>
-    <td>2024 - now</td>
+    <td>2025 - now</td>
     <td>Ph.D. Candidate, The Hong Kong University of Science and Technology (Guangzhou)</td>
   </tr>
   <tr>
-    <td>2023 - 2024</td>
+    <td>2023 - 2025</td>
     <td>M.Eng. in Electrical and Computer Engineering, National University of Singapore (NUS)</td>
   </tr>
   <tr>

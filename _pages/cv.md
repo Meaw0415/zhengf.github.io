@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate, The Hong Kong University of Science and Technology (Guangzhou), 2024 - present
-* M.Eng. in Electrical and Computer Engineering, National University of Singapore (NUS), 2023 - 2024
+* Ph.D. Candidate, The Hong Kong University of Science and Technology (Guangzhou), 2025 - present
+* M.Eng. in Electrical and Computer Engineering, National University of Singapore (NUS), 2023 - 2025
 * B.Eng. in Electrical and Computer Engineering, Zhejiang University & UIUC (ZJU-UIUC Joint Institute), 2019 - 2023
 
 
