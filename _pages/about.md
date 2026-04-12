@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Zheng Fang — a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), working with [Prof. Jun Xia](https://junxia97.github.io/).
+Hi! I'm Zheng Fang — a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Jun Xia](https://junxia97.github.io/).
 
 Before coming to HKUST(GZ), I got my M.Eng. from NUS (National University of Singapore), where I spent most of my time on Federated Learning, Medical Imaging, and Surgical Videos. Before that, I did my undergrad in ECE jointly at Zhejiang University and UIUC through the ZJU-UIUC Joint Institute.
 
