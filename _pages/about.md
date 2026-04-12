@@ -74,10 +74,10 @@ table, th, td {
 
 <table>
   <tr>
-    <td><b>Zheng Fang</b>, Xingjian Qi, Cheng-Meng Feng, Jie Pei, Wei Si, Yong Jin. Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos. <i>IEEE Transactions on Medical Imaging</i>.</td>
+    <td><b>Zheng Fang</b>, Xiaoming Qi, Chun-Mei Feng, Jialun Pei, Weixin Si, Yueming Jin. Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos. <i>IEEE Transactions on Medical Imaging</i>, 2026.</td>
   </tr>
   <tr>
-    <td><b>Zheng Fang</b>, Zhiyi Wu, Xinyi Wu, Shuo Chen, Xiao Wang, Sarthak Umrao, Abhishek Dwivedy. APIPred: An XGBoost-Based Method for Predicting Aptamer–Protein Interactions. <i>Journal of Chemical Information and Modeling</i>, 64(7): 2290-2301.</td>
+    <td><b>Zheng Fang</b>, Zhongqi Wu, Xinbo Wu, Shixin Chen, Xing Wang, Saurabh Umrao, Abhisek Dwivedy. APIPred: An XGBoost-Based Method for Predicting Aptamer–Protein Interactions. <i>Journal of Chemical Information and Modeling</i>, 64(7): 2290-2301.</td>
   </tr>
 </table>
 
