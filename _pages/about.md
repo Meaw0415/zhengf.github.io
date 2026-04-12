@@ -91,8 +91,3 @@ table, th, td {
 </html>
 
 
--------------
-<!-- <p align="center"> -->
-<p>
-<a href='https://clustrmaps.com/site/1bx96'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=GeNrTWzREx9cnMdTMQnFK33iMnHq1W05aCK-y6sxkao'/></a>
-</p>
