@@ -74,7 +74,7 @@ table, th, td {
 
 <table>
   <tr>
-    <td><b>Zheng Fang</b>, Chen Yang, Han Yu, Hongliang Luo, Hongliang He, Jia Xie, Zhen Yang, Jun Xia. <a href="https://arxiv.org/abs/2601.15763">NMRGym: A Comprehensive Benchmark for Nuclear Magnetic Resonance Based Molecular Structure Elucidation</a>. <i>arXiv preprint arXiv:2601.15763</i>, 2026.</td>
+    <td><b>Zheng Fang</b>, Chen Yang, Han Yu, Hongliang Luo, Hongliang He, Jia Xie, Zhen Yang, Jun Xia. <a href="https://arxiv.org/abs/2601.15763">NMRGym: A Comprehensive Benchmark for Nuclear Magnetic Resonance Based Molecular Structure Elucidation</a>. <i>KDD 2026</i>.</td>
   </tr>
   <tr>
     <td><b>Zheng Fang</b>, Xiaoming Qi, Chun-Mei Feng, Jialun Pei, Weixin Si, Yueming Jin. Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos. <i>IEEE Transactions on Medical Imaging</i>, 2026.</td>
