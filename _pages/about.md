@@ -74,6 +74,9 @@ table, th, td {
 
 <table>
   <tr>
+    <td>Chen Yang, <b>Zheng Fang</b>, Hanyu Sun, Fanjie Xu, Hongxin Xiang, Hanyu Gao, Xiangxiang Zeng, Yuqiang Li, Xiaojian Wang, Jun Xia. <a href="https://arxiv.org/abs/2606.20756">A large-scale foundation model enables simulation-to-real adaptation for nuclear magnetic resonance-based molecular structure analysis</a>. <i>arXiv preprint arXiv:2606.20756</i>, 2026.</td>
+  </tr>
+  <tr>
     <td><b>Zheng Fang</b>, Xiaoming Qi, Chun-Mei Feng, Jialun Pei, Weixin Si, Yueming Jin. Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos. <i>IEEE Transactions on Medical Imaging</i>, 2026.</td>
   </tr>
   <tr>
@@ -82,7 +85,7 @@ table, th, td {
 </table>
 
 <br>
-<p>See full list on <a href="https://scholar.google.com/citations?user=dsQrk1sAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+<p>See full list on <a href="https://scholar.google.com/citations?user=dsQrk1sAAAAJ&hl=zh-CN">Google Scholar</a>. See the UltraNMR preprint on <a href="https://arxiv.org/abs/2606.20756">arXiv</a>.</p>
 
 </body>
 </html>
