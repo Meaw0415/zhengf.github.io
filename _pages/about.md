@@ -74,6 +74,9 @@ table, th, td {
 
 <table>
   <tr>
+    <td><b>Zheng Fang</b>, Chen Yang, Yusen Tan, Yunpeng Zhao, Fanjie Xu, Hongxin Xiang, Hanyu Sun, Hanyu Gao, Xiaojian Wang, Wenjie Du, Yuqiang Li, Jun Xia. <a href="https://arxiv.org/html/2606.29776v1">Towards Generalizable and Evidential Nuclear Magnetic Resonance-Based Molecular Structure Elucidation via Large Language Model Agent</a>. <i>arXiv preprint arXiv:2606.29776</i>, 2026.</td>
+  </tr>
+  <tr>
     <td><b>Zheng Fang</b>, Chen Yang, Han Yu, Hongliang Luo, Hongliang He, Jia Xie, Zhen Yang, Jun Xia. <a href="https://arxiv.org/abs/2601.15763">NMRGym: A Comprehensive Benchmark for Nuclear Magnetic Resonance Based Molecular Structure Elucidation</a>. <i>KDD 2026</i>.</td>
   </tr>
   <tr>
